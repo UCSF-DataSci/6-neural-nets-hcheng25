@@ -81,7 +81,7 @@ platformdirs==4.3.8
 promise==2.3
 prompt_toolkit==3.0.51
 propcache==0.3.1
-protobuf==4.21.12
+protobuf==5.29.4
 psutil==7.0.0
 ptyprocess==0.7.0
 pure_eval==0.2.3
@@ -104,10 +104,10 @@ stack-data==0.6.3
 sympy==1.14.0
 tensorboard==2.19.0
 tensorboard-data-server==0.7.2
-tensorflow==2.19.0
 tensorflow-datasets==4.9.8
 tensorflow-io-gcs-filesystem==0.37.1
 tensorflow-metadata==1.17.1
+tensorflow_cpu==2.19.0
 termcolor==3.1.0
 threadpoolctl==3.6.0
 toml==0.10.2
